@@ -28,11 +28,22 @@ section{
 }
 
 #beefbox{
-  background-color: #ca79e8;
+  background-color: #35335e;
 }
 
 #sushibox{
-  background-color: #e3906f;
+  background-color: #35335e;
 }
 
+#p1{
+ background-color: #8681e3;
+}
+
+#p2{
+ background-color: #ca79e8;
+}
+
+#p3{
+ background-color: #e3906f;
+}
 
