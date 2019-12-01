@@ -40,8 +40,7 @@ section{
 
 #p1{
  background-color: #8681e3;
- position: relative;
- position: top-right;
+ float: right;
 }
 
 #p2{
