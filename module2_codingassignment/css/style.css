@@ -16,7 +16,6 @@ h1{
 
 p{
   background-color: #8681e3;
-  border: 4px solid navy;
   color: white;
 }
 
@@ -26,17 +25,14 @@ section{
 
 #chickenbox{
   background-color: #35335e;
-  border: 4px solid navy;
 }
 
 #beefbox{
   background-color: #35335e;
-  border: 4px solid navy;
 }
 
 #sushibox{
   background-color: #35335e;
-  border: 4px solid navy;
 }
 
 
