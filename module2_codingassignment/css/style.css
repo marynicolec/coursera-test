@@ -24,15 +24,18 @@ section{
 
 #chickenbox{
   background-color: #35335e;
+  width: 33.33%;
   float left: 
 }
 
 #beefbox{
   background-color: #35335e;
+  width: 33.33%;
 }
 
 #sushibox{
   background-color: #35335e;
+  width: 33.33%;
 }
 
 #p1{
