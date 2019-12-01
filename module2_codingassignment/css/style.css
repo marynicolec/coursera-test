@@ -25,7 +25,8 @@ section{
 
 #chickenbox{
   background-color: #35335e;
-  width: 33.33%;
+  width: 100%;
+  position: relative;
 }
 
 #beefbox{
@@ -40,7 +41,10 @@ section{
 
 #p1{
  background-color: #8681e3;
- float: right;
+ position: absolute;
+ top: 0;
+ right:16px;
+
 }
 
 #p2{
