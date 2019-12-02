@@ -12,7 +12,6 @@ h1{
 	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
 	font-size: x-Large;
   	color: black;
-
 }
 
 p{
@@ -23,6 +22,8 @@ p{
 section{
   color: white;
 }
+
+/**
 
 #chickenbox{
   background-color: #35335e;
@@ -41,9 +42,6 @@ section{
 
 #p1{
  background-color: #8681e3;
- position: absolute;
- top: 0%;
- right:100%;
 
 }
 
@@ -55,6 +53,7 @@ section{
  background-color: #e3906f;
 }
 
+**/
 
 /**Styling for Desktops**/
 @media (min-width: 300px) {
@@ -64,7 +63,6 @@ section{
  border: 1px solid navy; 
  width: 33.33%;
  margin-bottom: 15px;
-
 }
 
 #beefbox{
