@@ -64,7 +64,6 @@ section{
  border: 1px solid navy; 
  width: 33.33%;
  margin-bottom: 15px;
- clear: left;
 }
 
 #beefbox{
@@ -88,14 +87,21 @@ section{
  position: absolute;
  top: 0px;
  right: 0px;
+ clear: left;
 }
 
 #p2{
  background-color: #ca79e8;
+ position: absolute;
+ top: 0px;
+ right: 0px;
 }
 
 #p3{
  background-color: #e3906f;
+ position: absolute;
+ top: 0px;
+ right: 0px;
 }
 
 }
