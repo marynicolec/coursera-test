@@ -83,6 +83,23 @@ section{
  width: 33.33%;
  margin-bottom: 15px;
 }
+
+#p1{
+ background-color: #8681e3;
+ position: absolute;
+ top: 0%;
+ right:100%;
+
+}
+
+#p2{
+ background-color: #ca79e8;
+}
+
+#p3{
+ background-color: #e3906f;
+}
+
 }
 
 
