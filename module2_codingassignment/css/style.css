@@ -29,7 +29,7 @@ section{
 
 
 /**Styling for Desktops**/
-@media (min-width: 300px) {
+@media (min-width: 992px) {
 #chickenbox{
  background-color: gray;
  position: relative;
@@ -103,14 +103,13 @@ section{
 }
 
 
-/**Styling for Tablets 
-@media (min-width: 992px) {
-	@media (min-width: 300px) {
+/**Styling for Tablets **/
+@media (min-width: 300px) {
 #chickenbox{
  background-color: gray;
  position: relative;
  border: 1px solid navy; 
- width: 30%;
+ width: 50%;
  margin-left: 15px;
  margin-right: 15px;
  float: left;
@@ -120,7 +119,7 @@ section{
  background-color: gray;
  position: relative;
  border: 1px solid navy;
- width: 30%;
+ width: 50%;
  margin-right: 15px;
  float: left;
 }
@@ -129,7 +128,7 @@ section{
  background-color: gray;
  position: relative;
  border: 1px solid navy;
- width: 30%;
+ width: 100%;
  margin-right: 15px;
  float: left;
 }
