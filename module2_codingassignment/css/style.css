@@ -109,7 +109,7 @@ section{
  background-color: gray;
  position: relative;
  border: 1px solid navy; 
- width: 50%;
+ width: 45%;
  margin-left: 15px;
  margin-right: 15px;
  float: left;
@@ -119,7 +119,7 @@ section{
  background-color: gray;
  position: relative;
  border: 1px solid navy;
- width: 50%;
+ width: 45%;
  margin-right: 15px;
  float: left;
 }
@@ -128,7 +128,7 @@ section{
  background-color: gray;
  position: relative;
  border: 1px solid navy;
- width: 100%;
+ width: 95%;
  margin-right: 15px;
  float: left;
 }
