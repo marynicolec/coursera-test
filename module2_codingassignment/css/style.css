@@ -27,37 +27,6 @@ section{
   font size: small;
 }
 
-/**
-
-#chickenbox{
-  background-color: #35335e;
-  border: 1px solid navy;
-}
-
-#beefbox{
-  background-color: #35335e;
-  border: 1px solid navy;
-}
-
-#sushibox{
-  background-color: #35335e;
-  border: 1px solid navy;
-}
-
-#p1{
- background-color: #8681e3;
-
-}
-
-#p2{
- background-color: #ca79e8;
-}
-
-#p3{
- background-color: #e3906f;
-}
-
-**/
 
 /**Styling for Desktops**/
 @media (min-width: 300px) {
@@ -134,9 +103,78 @@ section{
 }
 
 
-/**Styling for Tablets
+/**Styling for Tablets 
 @media (min-width: 992px) {
-	
+	@media (min-width: 300px) {
+#chickenbox{
+ background-color: gray;
+ position: relative;
+ border: 1px solid navy; 
+ width: 30%;
+ margin-left: 15px;
+ margin-right: 15px;
+ float: left;
+}
+
+#beefbox{
+ background-color: gray;
+ position: relative;
+ border: 1px solid navy;
+ width: 30%;
+ margin-right: 15px;
+ float: left;
+}
+
+#sushibox{
+ background-color: gray;
+ position: relative;
+ border: 1px solid navy;
+ width: 30%;
+ margin-right: 15px;
+ float: left;
+}
+
+#p1{
+ background-color: #8681e3;
+ position: absolute;
+ top: 0px;
+ right: 0px;
+}
+
+#p2{
+ background-color: #ca79e8;
+ position: absolute;
+ top: 0px;
+ right: 0px;
+}
+
+#p3{
+ background-color: #e3906f;
+ position: absolute;
+ top: 0px;
+ right: 0px;
+}
+
+#s1{
+ margin-top: 20px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+
+#s2{
+ margin-top: 20px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+
+#s3{
+ margin-top: 20px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
 }
 
 /**Styling for Mobile
