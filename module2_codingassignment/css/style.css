@@ -17,6 +17,7 @@ h1{
 
 p{
   color: white;
+  border: 1px solid navy;
 }
 
 section{
@@ -25,18 +26,18 @@ section{
 
 #chickenbox{
   background-color: #35335e;
-  width: 100%;
   position: relative;
+  border: 1px solid navy;
 }
 
 #beefbox{
   background-color: #35335e;
-  width: 33.33%;
+  border: 1px solid navy;
 }
 
 #sushibox{
   background-color: #35335e;
-  width: 33.33%;
+  border: 1px solid navy;
 }
 
 #p1{
@@ -55,3 +56,42 @@ section{
  background-color: #e3906f;
 }
 
+
+/**Styling for Desktops**/
+@media (min-width: 992px) {
+#chickenbox{
+ background-color: #35335e;
+ position: relative;
+ border: 1px solid navy; 
+ width: 33.33%;
+ margin: 15px;
+
+}
+
+#beefbox{
+ background-color: #35335e;
+ position: relative;
+ border: 1px solid navy;
+ width: 33.33%;
+ margin: 15px;
+}
+
+#sushibox{
+ background-color: #35335e;
+ position: relative;
+ border: 1px solid navy;
+ width: 33.33%;
+ margin: 15px;
+}
+}
+
+
+/**Styling for Tablets
+@media (min-width: 992px) {
+	
+}
+
+/**Styling for Mobile
+@media (min-width: 992px) {
+	
+}**/
