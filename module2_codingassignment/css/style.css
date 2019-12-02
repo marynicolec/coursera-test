@@ -76,7 +76,6 @@ section{
  position: relative;
  border: 1px solid navy;
  width: 33.33%;
- margin-left: 15px;
  margin-right: 15px;
  float: left;
 }
@@ -86,7 +85,6 @@ section{
  position: relative;
  border: 1px solid navy;
  width: 33.33%;
- margin-left: 15px;
  margin-right: 15px;
  float: left;
 }
