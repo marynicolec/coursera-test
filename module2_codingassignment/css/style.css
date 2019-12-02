@@ -58,7 +58,7 @@ section{
 
 
 /**Styling for Desktops**/
-@media (min-width: 992px) {
+@media (min-width: 300px) {
 #chickenbox{
  background-color: #35335e;
  position: relative;
