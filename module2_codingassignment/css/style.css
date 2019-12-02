@@ -43,8 +43,8 @@ section{
 #p1{
  background-color: #8681e3;
  position: absolute;
- top: 0;
- right:30px;
+ top: 0%;
+ right:100%;
 
 }
 
@@ -60,28 +60,28 @@ section{
 /**Styling for Desktops**/
 @media (min-width: 300px) {
 #chickenbox{
- background-color: #35335e;
+ background-color: gray;
  position: relative;
  border: 1px solid navy; 
  width: 33.33%;
- margin: 15px;
+ margin-bottom: 15px;
 
 }
 
 #beefbox{
- background-color: #35335e;
+ background-color: gray;
  position: relative;
  border: 1px solid navy;
  width: 33.33%;
- margin: 15px;
+ margin-bottom: 15px;
 }
 
 #sushibox{
- background-color: #35335e;
+ background-color: gray;
  position: relative;
  border: 1px solid navy;
  width: 33.33%;
- margin: 15px;
+ margin-bottom: 15px;
 }
 }
 
