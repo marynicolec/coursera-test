@@ -113,7 +113,7 @@ section{
  background-color: gray;
  position: relative;
  border: 1px solid black; 
- width: 47%;
+ width: 50%;
  float: left;
  margin-bottom: 15px;
 }
@@ -122,11 +122,9 @@ section{
  background-color: gray;
  position: relative;
  border: 1px solid black;
- width: 47%;
+ width: 50%;
  float: left;
  margin-bottom: 15px;
-
-
 }
 
 #sushibox{
