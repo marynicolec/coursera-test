@@ -33,7 +33,7 @@ section{
 
 
 /**Styling for Desktops**/
-@media (min-width: 300px) {
+@media (min-width: 992px) {
 #chickenbox{
  background-color: gray;
  position: relative;
@@ -85,7 +85,7 @@ section{
  margin-top: 20px;
  margin-left: 10px;
  margin-right: 10px;
- margin-bottom: 15px;
+ margin-bottom: 14px;
 }
 
 #s2{
@@ -178,7 +178,7 @@ section{
 }
 
 /**Styling for Mobile**/
-@media (min-width: 992px) {
+@media (min-width: 300px) {
 #chickenbox{
  background-color: gray;
  position: relative;
