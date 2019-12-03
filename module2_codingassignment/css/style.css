@@ -19,7 +19,7 @@ h1{
 
 p{
   color: white;
-  border: 1px solid navy;
+  border: 1px solid black;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -35,7 +35,7 @@ section{
 #chickenbox{
  background-color: gray;
  position: relative;
- border: 1px solid navy; 
+ border: 1px solid black; 
  width: 30%;
  margin-left: 15px;
  margin-right: 15px;
@@ -45,7 +45,7 @@ section{
 #beefbox{
  background-color: gray;
  position: relative;
- border: 1px solid navy;
+ border: 1px solid black;
  width: 30%;
  margin-right: 15px;
  float: left;
@@ -110,30 +110,24 @@ section{
 #chickenbox{
  background-color: gray;
  position: relative;
- border: 1px solid navy; 
+ border: 1px solid black; 
  width: 50%;
- margin-right: 15px;
- margin-bottom: 15px;
  float: left;
 }
 
 #beefbox{
  background-color: gray;
  position: relative;
- border: 1px solid navy;
+ border: 1px solid black;
  width: 50%;
- margin-right: 15px;
- margin-bottom: 15px;
  float: left;
 }
 
 #sushibox{
  background-color: gray;
  position: relative;
- border: 1px solid navy;
+ border: 1px solid black;
  width: 100%;
- margin-left: 15px;
- margin-right: 15px;
  float: left;
 
 }
