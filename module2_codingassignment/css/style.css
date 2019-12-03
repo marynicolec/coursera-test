@@ -33,7 +33,7 @@ section{
 
 
 /**Styling for Desktops**/
-@media (min-width: 992px) {
+@media (min-width: 300px) {
 #chickenbox{
  background-color: gray;
  position: relative;
@@ -108,7 +108,7 @@ section{
 
 
 /**Styling for Tablets **/
-@media (min-width: 300px) {
+@media (min-width: 768px) and (max-width: 991px) {
 #chickenbox{
  background-color: gray;
  position: relative;
