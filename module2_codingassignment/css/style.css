@@ -177,7 +177,70 @@ section{
 }
 }
 
-/**Styling for Mobile
+/**Styling for Mobile**/
 @media (min-width: 992px) {
-	
-}**/
+#chickenbox{
+ background-color: gray;
+ position: relative;
+ border: 1px solid black; 
+ width: 100%;
+ margin-bottom: 15px;
+}
+
+#beefbox{
+ background-color: gray;
+ position: relative;
+ border: 1px solid black;
+ width: 100%;
+ margin-bottom: 15px;
+}
+
+#sushibox{
+ background-color: gray;
+ position: relative;
+ border: 1px solid black;
+ width: 100%;
+}
+
+#p1{
+ background-color: #8681e3;
+ position: absolute;
+ top: 0px;
+ right: 0px;
+}
+
+#p2{
+ background-color: #ca79e8;
+ position: absolute;
+ top: 0px;
+ right: 0px;
+}
+
+#p3{
+ background-color: #e3906f;
+ position: absolute;
+ top: 0px;
+ right: 0px;
+}
+
+#s1{
+ margin-top: 20px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+
+#s2{
+ margin-top: 20px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+
+#s3{
+ margin-top: 25px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+}
