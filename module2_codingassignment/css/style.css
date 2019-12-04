@@ -38,21 +38,21 @@ section{
 }
 
 #p1{
- background-color: #8681e3;
+ background-color: #eb8634;
  position: absolute;
  top: 0px;
  right: 0px;
 }
 
 #p2{
- background-color: #ca79e8;
+ background-color: #3437eb;
  position: absolute;
  top: 0px;
  right: 0px;
 }
 
 #p3{
- background-color: #e3906f;
+ background-color: #eb34c0;
  position: absolute;
  top: 0px;
  right: 0px;
@@ -83,7 +83,7 @@ section{
 /**Styling for Desktops**/
 @media (min-width: 992px) {
 #chickenbox{
- background-color: gray;
+ background-color: #34eb3d;
  position: relative;
  border: 1px solid black; 
  width: 30%;
@@ -92,7 +92,7 @@ section{
 }
 
 #beefbox{
- background-color: gray;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black;
  width: 30%;
@@ -101,55 +101,13 @@ section{
 }
 
 #sushibox{
- background-color: gray;
+ background-color: #9634eb;
  position: relative;
  border: 1px solid black;
  width: 30%;
  float: left;
 }
-/**
-#p1{
- background-color: #8681e3;
- position: absolute;
- top: 0px;
- right: 0px;
-}
 
-#p2{
- background-color: #ca79e8;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#p3{
- background-color: #e3906f;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#s1{
- margin-top: 25px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 15px;
-}
-
-#s2{
- margin-top: 25px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 15px;
-}
-
-#s3{
- margin-top: 25px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 15px;
-}
-**/
 }
 
 
@@ -181,49 +139,6 @@ section{
  float: left;
 
 }
-/**
-#p1{
- background-color: #8681e3;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#p2{
- background-color: #ca79e8;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#p3{
- background-color: #e3906f;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#s1{
- margin-top: 20px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 10px;
-}
-
-#s2{
- margin-top: 20px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 10px;
-}
-
-#s3{
- margin-top: 25px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 10px;
-}
-**/
 }
 
 /**Styling for Mobile**/
@@ -253,47 +168,4 @@ section{
  width: 100%;
  height: 25%;
 }
-/**
-#p1{
- background-color: #8681e3;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#p2{
- background-color: #ca79e8;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#p3{
- background-color: #e3906f;
- position: absolute;
- top: 0px;
- right: 0px;
-}
-
-#s1{
- margin-top: 25px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 15px;
-}
-
-#s2{
- margin-top: 25px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 15px;
-}
-
-#s3{
- margin-top: 25px;
- margin-left: 10px;
- margin-right: 10px;
- margin-bottom: 15px;
-}
-**/
 }
