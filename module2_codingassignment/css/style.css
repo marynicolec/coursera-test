@@ -114,7 +114,7 @@ section{
 /**Styling for Tablets **/
 @media (min-width: 768px) and (max-width: 991px) {
 #chickenbox{
- background-color: gray;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black; 
  width: 48%;
@@ -123,7 +123,7 @@ section{
 }
 
 #beefbox{
- background-color: gray;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black;
  width: 48%;
@@ -132,7 +132,7 @@ section{
 }
 
 #sushibox{
- background-color: gray;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black;
  width: 100%;
@@ -144,7 +144,7 @@ section{
 /**Styling for Mobile**/
 @media (max-width: 767px) {
 #chickenbox{
- background-color: gray;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black; 
  width: 100%;
@@ -153,7 +153,7 @@ section{
 }
 
 #beefbox{
- background-color: gray;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black;
  width: 100%;
@@ -162,7 +162,7 @@ section{
 }
 
 #sushibox{
- background-color: gray;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black;
  width: 100%;
