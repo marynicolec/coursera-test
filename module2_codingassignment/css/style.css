@@ -34,7 +34,7 @@ p{
 }
 
 section{
-  color: white;
+  color: navy;
 }
 
 #p1{
@@ -83,7 +83,7 @@ section{
 /**Styling for Desktops**/
 @media (min-width: 992px) {
 #chickenbox{
- background-color: #34eb3d;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black; 
  width: 30%;
@@ -101,7 +101,7 @@ section{
 }
 
 #sushibox{
- background-color: #9634eb;
+ background-color: #34ebd0;
  position: relative;
  border: 1px solid black;
  width: 30%;
