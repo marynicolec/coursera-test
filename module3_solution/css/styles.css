@@ -16,7 +16,6 @@ body{
 	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
 	color: blue;	
 	margin-top: 0;
-	text-align: left;
 	vertical-align: left;
 }
 
@@ -29,9 +28,10 @@ body{
 }
 
 .container li {
-	color: gray;
+	color: white;
 	border: 1px solid gray;
 	text-align: center;
+	background: #B0B0B0;
 }
 
 .navbar-nav{
