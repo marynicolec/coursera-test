@@ -11,13 +11,24 @@ body{
 #header-nav{
 	border-radius: 0;
 }
-
-h1{
-	color: blue;
-	margin-top: 0px;
-	left: 0px;
+.navbar-brand h1{
+	color: blue;	
+	margin-top: 0;
+	text-align: left;
+	vertical-align: left;
 }
 
 .navbar-brand{
 	margin-bottom: 15px;
-	}
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #32a852;
+}
+
+.container li {
+	color: gray;
+	border: 1px solid gray;
+	text-align: center;
+}
+
