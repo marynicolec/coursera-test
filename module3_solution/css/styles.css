@@ -1,0 +1,17 @@
+/*
+CSS for Module 3 Coding Assignment
+*/
+
+
+body{
+	background: navy;
+	color: white;
+}
+
+#header-nav{
+	border-radius: 0;
+}
+
+.navbar-header{
+	float: left;
+}
