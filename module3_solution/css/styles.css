@@ -10,12 +10,12 @@ body{
 #header-nav{
 	border-radius: 0;
 	border: 1px solid gray;
+	background: #C0C0C0;
 }
 .navbar-brand h1{
 	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
 	color: blue;	
 	margin-top: 0;
-	vertical-align: left;
 }
 
 .navbar-brand{
@@ -31,6 +31,7 @@ body{
 	border: 1px solid gray;
 	text-align: center;
 	background: #B0B0B0;
+	font-size: 1.5em;
 }
 
 .navbar-nav{
@@ -47,12 +48,15 @@ body{
 	color: gray;
 }
 
-#chicken-box{
+#chickenbox{
 	height: 1000px;
 	width: 100%;
-	margin-bottom: 15px;
-	position: relative;	
-	background: navy;
+	margin-bottom: 0px;
+    background: navy;
 	color: white;
 }
 
+#page-tiles{
+	background: navy;
+
+}
