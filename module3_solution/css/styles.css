@@ -11,6 +11,7 @@ body{
 	border-radius: 0;
 	border: 1px solid gray;
 	background: #C0C0C0;
+	margin-bottom: 0;
 }
 .navbar-brand h1{
 	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
@@ -46,6 +47,8 @@ body{
 
 #main-content{
 	color: gray;
+	margin-top: 0px;
+	padding-top: 0px;
 }
 
 #chickenbox{
@@ -58,5 +61,10 @@ body{
 
 #page-tiles{
 	background: navy;
-
 }
+
+.text-center{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
