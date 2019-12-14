@@ -4,7 +4,6 @@ CSS for Module 3 Coding Assignment
 
 
 body{
-	background: navy;
 	color: white;
 }
 
@@ -43,3 +42,17 @@ body{
 	margin: 0px;
 	padding: 0px;
 }
+
+#main-content{
+	color: gray;
+}
+
+#chicken-box{
+	height: 1000px;
+	width: 100%;
+	margin-bottom: 15px;
+	position: relative;	
+	background: navy;
+	color: white;
+}
+
