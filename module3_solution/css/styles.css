@@ -13,5 +13,11 @@ body{
 }
 
 h1{
+	color: blue;
 	margin-top: 0px;
+	left: 0px;
 }
+
+.navbar-brand{
+	margin-bottom: 15px;
+	}
