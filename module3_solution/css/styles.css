@@ -10,8 +10,10 @@ body{
 
 #header-nav{
 	border-radius: 0;
+	border: 1px solid gray;
 }
 .navbar-brand h1{
+	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
 	color: blue;	
 	margin-top: 0;
 	text-align: left;
@@ -32,3 +34,12 @@ body{
 	text-align: center;
 }
 
+.navbar-nav{
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar-collapse{
+	margin: 0px;
+	padding: 0px;
+}
