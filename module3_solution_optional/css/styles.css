@@ -1,0 +1,75 @@
+/*
+CSS for Module 3 Coding Assignment
+*/
+
+
+body{
+	color: white;
+}
+
+#header-nav{
+	border-radius: 0;
+	border: 1px solid gray;
+	background: #C0C0C0;
+	margin-bottom: 0;
+}
+.navbar-brand h1{
+	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+	color: blue;	
+	margin-top: 0;
+}
+
+.navbar-brand{
+	margin-bottom: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #32a852;
+}
+
+.container li {
+	color: white;
+	border: 1px solid gray;
+	text-align: center;
+	background: #B0B0B0;
+	font-size: 1.5em;
+}
+
+.navbar-nav{
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar-collapse{
+	margin: 0px;
+	padding: 0px;
+}
+
+#main-content{
+	color: gray;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 15px;
+}
+
+#chickenbox, #beefbox, #sushibox{
+	height: 500px;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 15px;
+    background: navy;
+	color: white;
+	border: 1px solid black
+}
+
+#pagetiles{
+	margin-bottom-bottom: 15px;
+}
+
+.text-center{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
