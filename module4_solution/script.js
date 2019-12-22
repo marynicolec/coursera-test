@@ -60,10 +60,10 @@ for (var i = 0; i < names.length; i++) {
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
   if ((firstLetter.toLowerCase()) == 'j') {
-    byeSpeaker.speak = function (names);
+    byeSpeaker.speak = function (names)
   } else {
      helloSpeaker.speak = function (names);
   }
 }
-}
+
 })(window);
