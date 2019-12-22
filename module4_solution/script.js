@@ -28,7 +28,8 @@ assignment.
 WARNING!!! WARNING!!!
 
 */
-//function (window) {
+
+(function (window) {
   // body...
 
 // STEP 1:
@@ -64,13 +65,13 @@ console.log(names.length);
   
      if (x == "j"){
   //if ((firstLetter.toLowerCase()) == 'j') {
-    //byeSpeaker.speak = function (names);
+       byeSpeaker.speak(names[i]);
        console.log("Bye");
        } else {
-     //helloSpeaker.speak = function (names);
+       helloSpeaker.speak(names[i]);
        console.log("Hello");
        }   
   
  }
 
-//})(window);
+})(window);
