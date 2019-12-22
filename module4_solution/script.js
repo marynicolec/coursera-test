@@ -59,10 +59,10 @@ console.log(names);
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
   
-  //var x = firstLetter.toLowerCase();
+  var x = firstLetter.toLowerCase();
   console.log(x);
   
-  if (firstLetter.toLowerCase()=='j'){
+  if (x == j){
   //if ((firstLetter.toLowerCase()) == 'j') {
     //byeSpeaker.speak = function (names);
      console.log("Bye");
