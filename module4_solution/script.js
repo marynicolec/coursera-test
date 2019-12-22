@@ -38,7 +38,7 @@ console.log(names.length);
 
      var firstLetter = names[i].charAt(0);
      var x = firstLetter.toLowerCase();
-     console.log(i);
+     
      if (x == "j"){
        byeSpeaker.speak(names[i]);
        } else {
