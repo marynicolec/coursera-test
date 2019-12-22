@@ -43,7 +43,7 @@ console.log(names);
 // using the 'speak' method or either helloSpeaker's or byeSpeaker's
 // 'speak' method.
 // See Lecture 50, part 1
-//for (var i = 0; i < names
+ //for (var i = 0; i < names[i].lenth
   // STEP 11:
   // Retrieve the first letter of the current name in the loop.
   // Use the string object's 'charAt' function. Since we are looking for
@@ -58,13 +58,17 @@ console.log(names);
   // 'j'. If the same, call byeSpeaker's 'speak' method with the current name
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
+  
+  var x = firstLetter.toLowerCase();
+  console.log(x);
   /*
   if (firstLetter=='j'){
   //if ((firstLetter.toLowerCase()) == 'j') {
     //byeSpeaker.speak = function (names);
-     console.log("IF");
+     console.log("Bye");
   } else {
-     helloSpeaker.speak = function (names);
+     //helloSpeaker.speak = function (names);
+     console.log("Hello");
   }
   */
 //}
