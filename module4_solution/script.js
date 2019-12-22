@@ -62,7 +62,7 @@ console.log(names);
   var x = firstLetter.toLowerCase();
   console.log(x);
   
-  if (x == j){
+  if (x == "j"){
   //if ((firstLetter.toLowerCase()) == 'j') {
     //byeSpeaker.speak = function (names);
      console.log("Bye");
