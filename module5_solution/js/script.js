@@ -105,9 +105,9 @@ function buildAndShowHomeHTML (categories) {
          var x = chooseRandomCategory(categories);
          var chosenCategoryShortName = "'" + x.short_name + "'";
           //"          var name = "" + categories[i].name;
-          console.log(x.short_name);
+        //  console.log(x.short_name);
 
-         console.log(chosenCategoryShortName);
+        // console.log(chosenCategoryShortName);
        //   var short_name = categories[i].short_name
 
       // TODO: STEP 3: Substitute {{randomCategoryShortName}} in the home html snippet with the
